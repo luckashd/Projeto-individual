@@ -1,0 +1,37 @@
+body{
+    color:blanchedalmond;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 6px solid green;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+footer{
+   
+    color:black;
+    background-color: brown;
+    border: 10px solid white;
+}
+.container{
+    padding: 0px 50px;
+}
+nav a:hover{
+    color: crimson;
